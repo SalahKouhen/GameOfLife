@@ -5,4 +5,5 @@ dependencies:
   - numpy
   - matplotlib
   - ipykernel
+  - ipython
 prefix: /home/k/kouhen/nobackups/bin/miniconda3/envs/lwenv
